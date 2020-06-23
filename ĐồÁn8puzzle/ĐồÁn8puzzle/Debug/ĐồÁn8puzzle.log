@@ -1,0 +1,25 @@
+﻿  Source.cpp
+D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\ĐồÁn8puzzle\Source.cpp(105,21): warning C4018: '<': signed/unsigned mismatch
+D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\ĐồÁn8puzzle\Source.cpp(108,21): warning C4018: '<': signed/unsigned mismatch
+D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\ĐồÁn8puzzle\Source.cpp(310,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\ĐồÁn8puzzle\Source.cpp(346,28): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\ĐồÁn8puzzle\Source.cpp(363,28): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\ĐồÁn8puzzle\Source.cpp(380,28): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\ĐồÁn8puzzle\Source.cpp(397,28): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  ĐồÁn8puzzle.vcxproj -> D:\Trí Tuệ Nhân Tạo\ĐồÁn8puzzle\Debug\ĐồÁn8puzzle.exe
